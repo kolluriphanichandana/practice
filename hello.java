@@ -1,6 +1,6 @@
 class helo
 {
-public stattic void main()
+public static void main()
 {
  print("hi")
 }}
