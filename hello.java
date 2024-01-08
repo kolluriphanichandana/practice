@@ -1,4 +1,4 @@
-class helo
+class hello
 {
 public static void main()
 {
