@@ -1,7 +1,7 @@
 class hello
 {
-public static void main()
+public stattic void main()
 {
- print("hi")
+ print("hi this is java")
 }}
 
