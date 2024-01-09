@@ -1,0 +1,16 @@
+class hello
+{
+<<<<<<< HEAD
+public stattic void main()
+{
+ print("hi this is java")
+=======
+public stattic void main from sol2()
+{
+public stattic void main from sol1()
+{ 
+ print("hi this is java world")
+>>>>>>> origin/main
+}}
+}
+
