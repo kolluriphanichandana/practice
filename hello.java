@@ -1,8 +1,8 @@
-class hello #sol2(1 3 7)
+class hello
 {
 public stattic void main from sol2()
 {
-   public static void main ("hello modify")
+public stattic void main from sol1()
 { 
  print("hi this is java world")
 }}
