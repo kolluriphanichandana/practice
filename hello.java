@@ -1,7 +1,10 @@
 class hello
 {
-public stattic void main()
+<<<<<<< HEAD
 {
  print("hi this is java")
+=======
+public stattic void main from sol2()
 }}
+
 
